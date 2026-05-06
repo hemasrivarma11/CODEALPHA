@@ -1,0 +1,13 @@
+1. What is phishing?
+a) Gaming attack
+b) Social engineering attack
+c) Hardware issue
+
+Answer: b
+
+2. Which is a phishing indicator?
+a) HTTPS
+b) Grammar mistakes
+c) Verified domain
+
+Answer: b

@@ -1,0 +1,5 @@
+1. Hardcoded credentials found
+2. Password stored in plaintext
+3. Lack of password hashing
+4. No secure authentication mechanism
+5. No logging or monitoring
